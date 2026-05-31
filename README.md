@@ -15,7 +15,7 @@ with a focus on React, JavaScript, Node.js, Express, and MongoDB.
 
 - Former Web Designer with experience in website layout and graphic design
 - Interested in clean UI, simple user experience, and useful web applications
-- Enjoy learning step by step and improving through real projects
+- Enjoy learning step by step and improving through hands-on projects
 
 ---
 
