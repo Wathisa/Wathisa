@@ -5,8 +5,9 @@
 I'm transitioning from a Web Design background into Software Development.  
 I enjoy creating clean, user-friendly websites and practical web applications.
 
-Currently, I'm learning full-stack development through a coding bootcamp, 
-with a focus on React, JavaScript, Node.js, Express, and MongoDB.
+Currently, I'm learning full-stack development through a coding bootcamp,  
+with a focus on React, JavaScript, Node.js, Express, and MongoDB. 
+
 
 ---
 
