@@ -40,7 +40,7 @@ with a focus on React, JavaScript, Node.js, Express, and MongoDB.
 
 ## 📫 Let's Connect
 
-- **Portfolio:** 
+- **Portfolio:** https://simplydesign.vercel.app/
 - **LinkedIn:** https://www.linkedin.com/in/wathisa/
 - **Email:** wathisa@gmail.com
 <!--
